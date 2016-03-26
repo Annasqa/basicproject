@@ -6,6 +6,6 @@ Basic project
 
 * Git
 * Java
-*Maven
+* Maven
 
 [Anna Antonyan](http://sqasolution.com)
