@@ -2,7 +2,7 @@
 
 ### March 26, 2016
 
-Basic project
+Creating Basic Project
 
 * Git
 * Java
